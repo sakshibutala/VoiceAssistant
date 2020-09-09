@@ -7,8 +7,8 @@ In this notebook, I have built a voice assistant that responds to basic inquirie
 * pyttsx3 - https://pypi.org/project/pyttsx3/
 * BeautifulSoup - https://pypi.org/project/BeautifulSoup/
 
-* Notebook
+# Notebook
 The "VoiceAssistant.ipynb" contains the algorithm for bulding a voice assistant.
 
-* Author
+# Author
 Sakshi Butala
