@@ -1,6 +1,6 @@
 # VoiceAssistant
 
-In this notebook, I have built a voice assistant that responds to basic inquiries.
+In this notebook, I have built a voice assistant that responds to basic user queries.
 
 # Packages Requried
 * SpeechRecognition - https://pypi.org/project/SpeechRecognition/
@@ -23,7 +23,7 @@ The "VoiceAssistant.ipynb" contains the algorithm for bulding a voice assistant.
 # Medium Article
 Check out my medium article for a step by step tutorial on building a this voice assistant.
 
-link
+https://medium.com/@sakshibutala12/building-a-multi-functionality-voice-assistant-in-10-minutes-3e5d87e164f0
 
 # Author
 Sakshi Butala
